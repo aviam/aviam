@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Avi Amsalem CTO of [CodeSpread](https://codespread.io)
+### Hi there 👋 i'm Avi Amsalem CEO of [CodeSpread](https://codespread.io)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aviam&show_icons=true&count_private=true&theme=merko)](https://github.com/aviam/github-readme-stats)
 <!--
