@@ -1,5 +1,6 @@
 ### Hi there 👋 i'm Avi Amsalem CTO of [CodeSpread](https://codespread.io)
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aviam)](https://github.com/aviam/github-readme-stats)
 <!--
 **aviam/aviam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
