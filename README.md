@@ -1,6 +1,9 @@
 ### Hi there 👋 i'm Avi Amsalem CEO of [CodeSpread](https://codespread.io)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aviam&show_icons=true&count_private=true&theme=merko)](https://codespread.io)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviam)]
 <!--
 **aviam/aviam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
